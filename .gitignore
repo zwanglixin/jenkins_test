@@ -1,5 +1,3 @@
 .idea
 venv
 *.py[cod].gitignore
-run.py
-sum.py
